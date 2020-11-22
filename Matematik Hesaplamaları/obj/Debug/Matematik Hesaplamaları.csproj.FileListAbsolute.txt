@@ -1,0 +1,10 @@
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\Matematik Hesaplamaları.exe.config
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\Matematik Hesaplamaları.exe
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\Matematik Hesaplamaları.pdb
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.csprojAssemblyReference.cache
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik_Hesaplamaları.Form1.resources
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik_Hesaplamaları.Properties.Resources.resources
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.csproj.GenerateResource.cache
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.csproj.CoreCompileInputs.cache
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.exe
+C:\Users\EymenUras\Source\Repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\Matematik Hesaplamaları.pdb
